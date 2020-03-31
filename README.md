@@ -2,6 +2,8 @@
 
 > Extensão do Chrome para a cura do Coronavírus na Internet.
 
+![Corona-Cleaner](src/images/icons8-coronavirus-96.png)
+
 ## Objetivo
 
 Remover as menções ao Coronavírus do conteúdo das páginas na Internet.
@@ -11,8 +13,6 @@ Remover as menções ao Coronavírus do conteúdo das páginas na Internet.
 * Aplicar a vacina
 
 ## Como usar?
-
-Fazer o download
 
 ---
 ## Ícone
