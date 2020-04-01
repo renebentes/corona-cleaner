@@ -1,10 +1,16 @@
 {
     "name": "Corona Cleaner",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "description": "Cura para o Coronavírus na Internet",
     "icons": {
       "48": "images/icons8-coronavirus-48.png",
       "96": "images/icons8-coronavirus-96.png"
     },
+    "content_scripts": [
+      {
+          "matches": ["http://*/*", "https://*/*"],
+          "js": ["scripts/content.js"]
+      }
+  ],
     "manifest_version": 2
   }
