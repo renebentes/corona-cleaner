@@ -1,4 +1,4 @@
-const corona = /coronavírus|coronavirus|corona virus|corona vírus|covid-19|covid19|covid|corona/gi;
+const corona = /(corona|covid)((-|\s)?(19|v[ií]rus))?/gi;
 const ignoreTags = ["script", "noscript", "style", "meta", "title"];
 
 function cure(element) {
