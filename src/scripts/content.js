@@ -20,4 +20,4 @@ function find(element){
     }
 }
 
-window.load = find(document.body);
+find(document.body);
