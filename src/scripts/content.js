@@ -9,15 +9,15 @@ function cure(element) {
     element.textContent = text.replace(corona, "💉");
 }
 
-function find(element){
+function process(element){
     if (!element.childElementCount) {
         cure(element);
         return;
     }
 
     for (const el of element.children) {
-        find(el);
+        process(el);
     }
 }
 
-find(document.body);
+process(document.body);
