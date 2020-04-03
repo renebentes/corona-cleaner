@@ -13,29 +13,27 @@ Remover as menções ao Coronavírus do conteúdo das páginas na Internet.
 - Localizar as menções ao Coronavírus
 - Aplicar a vacina
 
-## Como usar?
+## Como usar
 
-1. Faça download da última versão da extensão direto
+- Faça download da última versão da extensão direto
 
 ![Download](docs/docs-download.png)
 
-2. Extraia a os arquivos da extensão para uma local de fácil acesso
+- Extraia a os arquivos da extensão para uma local de fácil acesso
 
-3. Abra a página de Extensões do Chrome
+- Abra a página de Extensões do Chrome
 
-```
-chrome://extensions/
-```
+![Chrome Extensions](docs/docs-chrome.png)
 
-4. Ative o Modo Desenvolvedor
+- Ative o Modo Desenvolvedor
 
 ![Modo Desenvolvedor](docs/docs-devmode.png)
 
-5. Carregue a extensão sem compactação e selecione a pasta extraída no passo [1]
+- Carregue a extensão sem compactação e selecione a pasta extraída no passo [1]
 
 ![Carregar sem compactação](docs/docs-load.png)
 
-6. Agora navegue curado do Coronavírus :)
+- Agora navegue curado do Coronavírus :)
 
 ---
 
